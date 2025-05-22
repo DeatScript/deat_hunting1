@@ -8,7 +8,6 @@
 - Wgraj Skrypt
 - Skonfigóruj item.lua w ox inventory rzeczy pod to masz w folderze INSTAL
 - Dodaj Zdjęcia pod nie tak samo w ox_invetiory
-- Podepnij pod baze danych
 - Zrestartuj serwer
 - Kożystaj z skryptu
 
